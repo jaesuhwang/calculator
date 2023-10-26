@@ -1,3 +1,5 @@
+class helloCla():
+    pass
 class Calculator():
     pass
 
